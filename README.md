@@ -4,7 +4,7 @@
   
 </p>
   
-<p align='center'>
+<p align='left'>
  
 <img height="450" src="https://github.com/JavierSada/python-challenge/blob/main/Images/Wally-the-Green-Monster-from-Red-Sox.jpg">
 
@@ -14,6 +14,23 @@
 
 Welcome to the world of programming with Python. In this homework assignment, you'll be using the concepts you've learned to complete the two Python Challenges, PyBank and PyPoll.
 Both of these challenges encompass a real-world situation where your newfound Python scripting skills can come in handy. These challenges are far from easy so expect some hard work ahead!
+
+</p>
+
+## PyBank - Background
+
+<p align="justify">
+
+<img height="450" src="https://github.com/JavierSada/python-challenge/blob/main/Images/revenue-per-lead.png">
+
+Create a Python script to analyze the financial records of a company that will be provided as data set called [budget_data.csv]. The dataset is composed of two columns: `Date` and `Profit/Losses`.
+
+The Python script will analyze the financial records to calculate each of the following:
+  * The total number of months included in the dataset
+  * The total net amount of "Profit/Losses" over the entire period
+  * The average change in "Profit/Losses" between months over the entire period
+  * The greatest increase in profits (date and amount) over the entire period
+  * The greatest decrease in losses (date and amount) over the entire period
 
 </p>
 
