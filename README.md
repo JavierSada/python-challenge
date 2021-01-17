@@ -19,9 +19,11 @@ Both of these challenges encompass a real-world situation where your newfound Py
 
 ## PyPoll - Background
 
-<p align="justify"> In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
+<p align="justify"> 
   
 <img height="450" src="https://github.com/JavierSada/python-challenge/blob/main/Images/Vote_counting.png">
+
+In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
 
 You will be give a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate. Your task is to create a Python script that analyzes the votes and calculates each of the following:
 
